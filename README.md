@@ -20,4 +20,5 @@ Included utilities:
 * Wine was supposed to be included, however since new releases are released really often, you should download it from the official source: https://www.winehq.org/ .
 
 # Beta testing is available for those who are interested!
-If you have any suggestions then start a pull request. If you have any issues, use the Github Issues to notify me. > BEFORE YOU START AN ISSUE, INCLUDE RELEVANT LOGS!! <
+If you have any suggestions then start a pull request. 
+If you have any issues, use the Github Issues to notify me. > BEFORE YOU START AN ISSUE, INCLUDE RELEVANT LOGS!! <
