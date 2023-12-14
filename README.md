@@ -14,7 +14,7 @@ Included utilities:
 * Sunshine (if you set this up then you can connect to your pc from anywhere!)
 * Free Download Manager (mainly just a torrent program, but it can accelerate downloads a bit)
 * VLC
-* Obs Studio
+* OBS Studio
 * Lutris
 * VS Code
 * Balena Etcher (for making bootable USBs)
