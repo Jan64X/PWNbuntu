@@ -25,3 +25,6 @@ Included utilities:
 # Beta testing is available for those who are interested!
 If you have any suggestions then start a pull request. 
 If you have any issues, use the Github Issues to notify me. > BEFORE YOU START AN ISSUE, INCLUDE RELEVANT LOGS!! <
+
+Preview:
+![Screenshot 1](./previews/screenshot1.png)
