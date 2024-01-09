@@ -21,6 +21,8 @@ Included utilities:
 * Libre Office Suite (for your general office work)
 * Bundled KDE utilities like KDE Connect, Kate, Spectacle (amazing screenshot app)
 * Wine was supposed to be included, however since new releases are released really often, you should download it from the official source: https://www.winehq.org/ .
+# NEW ADDITION: PHOTOSHOP4LINUX
+Check it out here: https://github.com/Jan64X/photoshop4linux
 
 # Beta testing is available for those who are interested!
 If you have any suggestions then start a pull request. 
