@@ -8,7 +8,6 @@ Included utilities:
 * Spotify
 * Steam
 * Discord
-* Tachiyomi desktop (port for manga reader app)
 * Cubic (incase you want to customize the ISO how you want)
 * Parsec (client for windows streaming host)
 * Sunshine (if you set this up then you can connect to your pc from anywhere!)
